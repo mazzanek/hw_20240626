@@ -21,4 +21,4 @@ urlpatterns = [
 ]
 
 """ TODO: nefunguje mi toto omezení na hlavní stránku a na history site - takze stranky
-   http://127.0.0.1:8000/history/blbost nebo http://127.0.0.1:8000/blbost vykazuji chybu"""
+   http://127.0.0.1:8000/history/blbost nebo http://127.0.0.1:8000/blbost vykazuji chybu - jak to opravit?"""
