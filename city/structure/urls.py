@@ -7,5 +7,10 @@ urlpatterns = [
     path('facts/', views.main_facts, name='facts'),
     path('', views.main_page, name='main'),
     path('news/', views.news_page, name='news'),
+    path('history/', views.history_page, name='history'),
+    path('history/people', views.people_page, name='people'),
+    path('history/photos', views.photos_page, name='photos'),
+
+
 
 ]
